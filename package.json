@@ -1,0 +1,31 @@
+{
+  "name": "restler-when",
+  "version": "0.0.1",
+  "description": "when wrapper for Restler",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jayceekay/restler-when"
+  },
+  "keywords": [
+    "when",
+    "promises",
+    "restful",
+    "restler"
+  ],
+  "author": "Justin Knowles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayceekay/restler-when/issues"
+  },
+  "dependencies": {
+    "when": "~2.7.0",
+    "restler": "~3.1.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "restler-when",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "when wrapper for Restler",
   "main": "index.js",
   "scripts": {

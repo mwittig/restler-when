@@ -1,5 +1,7 @@
 NOTE
 -----------------
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/mwittig/restler-when.svg)](https://greenkeeper.io/)
 This library is a fork of Troupe's [restler-q](https://github.com/troupe/restler-q), but using [when](https://github.com/cujojs/when) instead.
 
 Installing
